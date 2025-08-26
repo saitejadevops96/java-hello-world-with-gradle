@@ -60,7 +60,7 @@ dependencies {
 // end::dependencies[]
 
 // tag::wrapper[]
-tasks.register('wrapper', Wrapper) {
+wrapper {
     gradleVersion = '8.10'
 }
 // end::wrapper[]
