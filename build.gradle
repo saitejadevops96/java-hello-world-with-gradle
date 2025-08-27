@@ -50,7 +50,7 @@ repositories {
 // tag::jar[]
 jar {
     archiveBaseName.set('hello-world')
-    archiveVersion.set('1.0.0.1')
+    archiveVersion.set('1.0.0.1-SNAPSHOT')
 }
 // end::jar[]
 
