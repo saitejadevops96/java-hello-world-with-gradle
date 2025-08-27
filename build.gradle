@@ -48,8 +48,8 @@ repositories {
 
 // tag::jar[]
 jar {
-    archiveBaseName.set('jb-hello-world')
-    archiveVersion.set('0.1.0')
+    archiveBaseName.set('hello-world')
+    archiveVersion.set('1.0.0.1')
 }
 // end::jar[]
 
